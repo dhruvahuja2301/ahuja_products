@@ -1,0 +1,110 @@
+[
+    {
+        "NAME": "LINE TESTERS",
+        "ITEMS COUNT": "10",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY LINE TESTERS"
+    },
+    {
+        "NAME": "GENERAL",
+        "SUB": [
+            {
+                "NAME": "MODULAR SURFACE BOX",
+                "ITEMS COUNT": "10",
+                "1 IMAGE PER ITEM": false
+            },
+            {
+                "NAME": "OPEN SURFACE BOX",
+                "ITEMS COUNT": "8",
+                "1 IMAGE PER ITEM": false
+            },
+            {
+                "NAME": "PLATES",
+                "ITEMS COUNT": "7",
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "BOXES",
+                "ITEMS COUNT": "3",
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "MULTIPLUGS",
+                "ITEMS COUNT": "5",
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "2 PIN TOP",
+                "ITEMS COUNT": "2",
+                "1 IMAGE PER ITEM": true
+            }
+        ],
+        "DESCRIPTION": "BEST QUALITY SURFACE BOXES, PLATES, BOXES, MULTIPLUGS and 2 PIN TOPS"
+    },
+    {
+        "NAME": "DOOR BELL",
+        "SUB": [
+            {
+                "NAME": "BIRD CHIME",
+                "ITEMS COUNT": "4",
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "BUZZER",
+                "ITEMS COUNT": "3",
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "DING DONG",
+                "ITEMS COUNT": "6",
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "VOCAL MUSICAL",
+                "SUB": [
+                    {
+                        "NAME": "MODULAR MUSICAL BELL",
+                        "ITEMS COUNT": "10",
+                        "1 IMAGE PER ITEM": false
+                    },
+                    {
+                        "NAME": "REDMI MUSICAL BELL",
+                        "ITEMS COUNT": "10",
+                        "1 IMAGE PER ITEM": false
+                    }
+                ]
+            }
+        ],
+        "DESCRIPTION": "BEST QUALITY BIRD CHIME, BUZZER, DING DONG BELL AND VOCAL MUSICAL BELLS"
+    },
+    {
+        "NAME": "POWER STRIP",
+        "ITEMS COUNT": "2",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY POWER STRIPS"
+    },
+    {
+        "NAME": "BULKHEAD",
+        "ITEMS COUNT": "8",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY BULKHEAD"
+    },
+    {
+        "NAME": "HOLDERS",
+        "ITEMS COUNT": "18",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY HOLDERS"
+    },
+    {
+        "NAME": "SPOT LIGHTS",
+        "ITEMS COUNT": "5",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY SPOT LIGHTS"
+    },
+    {
+        "NAME": "FOOT LIGHTS",
+        "ITEMS COUNT": "13",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY FOOT LIGHTS"
+    }
+]
