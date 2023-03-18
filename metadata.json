@@ -1,0 +1,133 @@
+[
+    {
+        "NAME": "LINE TESTERS",
+        "START": 0,
+        "END": 9,
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY LINE TESTERS"
+    },
+    {
+        "NAME": "GENERAL",
+        "SUB": [
+            {
+                "NAME": "2 PIN TOP",
+                "START": 10,
+                "END": 11,
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "MODULAR SURFACE BOX",
+                "START": 12,
+                "END": 21,
+                "1 IMAGE PER ITEM": false
+            },
+            {
+                "NAME": "OPEN SURFACE BOX",
+                "START": 22,
+                "END": 29,
+                "1 IMAGE PER ITEM": false
+            },
+            {
+                "NAME": "PLATES",
+                "START": 98,
+                "END": 105,
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "MULTIPLUGS",
+                "START": 113,
+                "END": 118,
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "BOXES",
+                "START": 106,
+                "END": 112,
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "",
+                "START": 134,
+                "END": 134,
+                "1 IMAGE PER ITEM": true
+            }
+        ],
+        "DESCRIPTION": "BEST QUALITY SURFACE BOXES, PLATES, BOXES, MULTIPLUGS and 2 PIN TOPS"
+    },
+    {
+        "NAME": "DOOR BELL",
+        "SUB": [
+            {
+                "NAME": "BIRD CHIME",
+                "START": 30,
+                "END": 34,
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "BUZZER",
+                "START": 35,
+                "END": 37,
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "DING DONG",
+                "START": 38,
+                "END": 42,
+                "1 IMAGE PER ITEM": true
+            },
+            {
+                "NAME": "VOCAL MUSICAL",
+                "SUB": [
+                    {
+                        "NAME": "MODULAR MUSICAL BELLS",
+                        "START": 43,
+                        "END": 52,
+                        "1 IMAGE PER ITEM": false
+                    },
+                    {
+                        "NAME": "REDMI MUSICAL BELLS",
+                        "START": 53,
+                        "END": 62,
+                        "1 IMAGE PER ITEM": false
+                    }
+                ]
+            }
+        ],
+        "DESCRIPTION": "BEST QUALITY BIRD CHIME, BUZZER, DING DONG BELL AND VOCAL MUSICAL BELLS"
+    },
+    {
+        "NAME": "POWER STRIP",
+        "START": 63,
+        "END": 64,
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY POWER STRIPS"
+    },
+    {
+        "NAME": "BULKHEAD",
+        "START": 65,
+        "END": 74,
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY BULKHEAD"
+    },
+    {
+        "NAME": "HOLDERS",
+        "START": 75,
+        "END": 92,
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY HOLDERS"
+    },
+    {
+        "NAME": "SPOT LIGHTS",
+        "START": 93,
+        "END": 97,
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY SPOT LIGHTS"
+    },
+    {
+        "NAME": "FOOT LIGHTS",
+        "START": 119,
+        "END": 132,
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY FOOT LIGHTS"
+    }
+]
