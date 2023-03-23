@@ -5,7 +5,7 @@
         "END": 9,
         "1 IMAGE PER ITEM": true,
         "DESCRIPTION": "BEST QUALITY LINE TESTERS",
-        "Products": [
+        "PRODUCTS": [
             {
                 "ITEM CODE": 101,
                 "ITEM NAME": "TESTER POPULAR GOLD",
@@ -74,7 +74,7 @@
             {
                 "NAME": "2 PIN TOP",
                 "1 IMAGE PER ITEM": true,
-                "Products": [
+                "PRODUCTS": [
                     {
                         "ITEM CODE": 143,
                         "ITEM NAME": "2 PIN TOP",
@@ -92,7 +92,7 @@
             {
                 "NAME": "MODULAR SURFACE BOX",
                 "1 IMAGE PER ITEM": false,
-                "Products": [
+                "PRODUCTS": [
                     {
                         "ITEM CODE": 241,
                         "ITEM NAME": "1M SURFACE GANG BOX",
@@ -158,7 +158,7 @@
             {
                 "NAME": "OPEN SURFACE BOX",
                 "1 IMAGE PER ITEM": false,
-                "Products": [
+                "PRODUCTS": [
                     {
                         "ITEM CODE": 253,
                         "ITEM NAME": "1/2M SURFACE OPEN BOX",
@@ -212,7 +212,7 @@
             {
                 "NAME": "PLATES",
                 "1 IMAGE PER ITEM": true,
-                "Products": [
+                "PRODUCTS": [
                     {
                         "ITEM CODE": 800,
                         "ITEM NAME": "JUNCTION BOX COVER PLATE",
@@ -266,7 +266,7 @@
             {
                 "NAME": "MULTIPLUGS",
                 "1 IMAGE PER ITEM": true,
-                "Products": [
+                "PRODUCTS": [
                     {
                         "ITEM CODE": 822,
                         "ITEM NAME": "MULTIPLUG FANCY 6AMP.",
@@ -308,7 +308,7 @@
             {
                 "NAME": "",
                 "1 IMAGE PER ITEM": true,
-                "Products": [
+                "PRODUCTS": [
                     {
                         "ITEM CODE": 811,
                         "ITEM NAME": "MCB. 1 WAY, 2WAY  PC",
@@ -380,7 +380,7 @@
             {
                 "NAME": "BIRD CHIME",
                 "1 IMAGE PER ITEM": true,
-                "Products": [
+                "PRODUCTS": [
                     {
                         "ITEM CODE": 401,
                         "ITEM NAME": "LOVE BIRD BELL",
@@ -416,7 +416,7 @@
             {
                 "NAME": "BUZZER",
                 "1 IMAGE PER ITEM": true,
-                "Products": [
+                "PRODUCTS": [
                     {
                         "ITEM CODE": 411,
                         "ITEM NAME": "BUZZER DONG",
@@ -440,7 +440,7 @@
             {
                 "NAME": "DING DONG",
                 "1 IMAGE PER ITEM": true,
-                "Products": [
+                "PRODUCTS": [
                     {
                         "ITEM CODE": 421,
                         "ITEM NAME": "DING DONG BELL PRIDE",
@@ -479,7 +479,7 @@
                     {
                         "NAME": "MODULAR MUSICAL BELLS",
                         "1 IMAGE PER ITEM": false,
-                        "Products": [
+                        "PRODUCTS": [
                             {
                                 "ITEM CODE": 441,
                                 "ITEM NAME": "SOUTH SPECIAL",
@@ -545,7 +545,7 @@
                     {
                         "NAME": "REDMI MUSICAL BELLS",
                         "1 IMAGE PER ITEM": false,
-                        "Products": [
+                        "PRODUCTS": [
                             {
                                 "ITEM CODE": 451,
                                 "ITEM NAME": "SOUTH SPECIAL",
@@ -617,7 +617,7 @@
         "NAME": "POWER STRIP",
         "1 IMAGE PER ITEM": true,
         "DESCRIPTION": "BEST QUALITY POWER STRIPS",
-        "Products": [
+        "PRODUCTS": [
             {
                 "ITEM CODE": 481,
                 "ITEM NAME": "POWER STRIP 4+4  2 YARD (old-513)",
@@ -636,7 +636,7 @@
         "NAME": "BULKHEAD",
         "1 IMAGE PER ITEM": true,
         "DESCRIPTION": "BEST QUALITY BULKHEAD",
-        "Products": [
+        "PRODUCTS": [
             {
                 "ITEM CODE": 602,
                 "ITEM NAME": "C.F.L. CAPSULE 14W",
@@ -703,7 +703,7 @@
         "NAME": "HOLDERS",
         "1 IMAGE PER ITEM": true,
         "DESCRIPTION": "BEST QUALITY HOLDERS",
-        "Products": [
+        "PRODUCTS": [
             {
                 "ITEM CODE": 711,
                 "ITEM NAME": "LAMP HOLDER",
@@ -818,7 +818,7 @@
         "NAME": "SPOT LIGHTS",
         "1 IMAGE PER ITEM": true,
         "DESCRIPTION": "BEST QUALITY SPOT LIGHTS",
-        "Products": [
+        "PRODUCTS": [
             {
                 "ITEM CODE": 776,
                 "ITEM NAME": "1W SPOT LIGHT",
@@ -855,7 +855,7 @@
         "NAME": "FOOT LIGHTS",
         "1 IMAGE PER ITEM": true,
         "DESCRIPTION": "BEST QUALITY FOOT LIGHTS",
-        "Products": [
+        "PRODUCTS": [
             {
                 "ITEM CODE": 901,
                 "ITEM NAME": "Foot Light 2M 3 LED WITH PLATE",
