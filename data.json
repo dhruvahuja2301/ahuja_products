@@ -212,12 +212,6 @@
                 "1 IMAGE PER ITEM": true,
                 "PRODUCTS": [
                     {
-                        "ITEM CODE": 800,
-                        "ITEM NAME": "JUNCTION BOX COVER PLATE",
-                        "RATE": 10.5,
-                        "PKG": 50
-                    },
-                    {
                         "ITEM CODE": 801,
                         "ITEM NAME": "ROUND PLATE 3.5",
                         "RATE": 8,
@@ -360,12 +354,6 @@
                         "ITEM NAME": "GATE LIGHT STAND",
                         "RATE": 55,
                         "PKG": 10
-                    },
-                    {
-                        "ITEM CODE": "",
-                        "ITEM NAME": "LED BOOSTER FOOT LIGHT",
-                        "RATE": 665,
-                        "PKG": 5
                     }
                 ]
             }
@@ -618,13 +606,13 @@
         "PRODUCTS": [
             {
                 "ITEM CODE": 481,
-                "ITEM NAME": "POWER STRIP 4+4  2 YARD (old-513)",
+                "ITEM NAME": "POWER STRIP 4+4 2 Meter",
                 "RATE": 544,
                 "PKG": 1
             },
             {
                 "ITEM CODE": 482,
-                "ITEM NAME": "POWER STRIP 4+4  5 YARD (old-514)",
+                "ITEM NAME": "POWER STRIP 4+4 5 Meter",
                 "RATE": 670,
                 "PKG": 1
             }
@@ -856,31 +844,31 @@
         "PRODUCTS": [
             {
                 "ITEM CODE": 901,
-                "ITEM NAME": "Foot Light 2M 3 LED WITH PLATE",
+                "ITEM NAME": "2M 3 LED WITH PLATE",
                 "RATE": 170,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 902,
-                "ITEM NAME": "Foot Light 2M Soft Light WITH PLATE",
+                "ITEM NAME": "2M Soft Light WITH PLATE",
                 "RATE": 170,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 903,
-                "ITEM NAME": "Foot Light 2M Grill WITH PLATE",
+                "ITEM NAME": "2M Grill WITH PLATE",
                 "RATE": 170,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 914,
-                "ITEM NAME": "FOOTLIGHT 2 IN 1 STEP LIGHT",
+                "ITEM NAME": "2M & 3M COMMON STEP UP",
                 "RATE": 180,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 915,
-                "ITEM NAME": "FOOT LIGHT 3M DOWNLIGHT",
+                "ITEM NAME": "3M DOWNLIGHT",
                 "RATE": 200,
                 "PKG": 5
             },
@@ -892,49 +880,49 @@
             },
             {
                 "ITEM CODE": 918,
-                "ITEM NAME": "FOOT LIGHT 3M  COREL",
+                "ITEM NAME": "3M  COREL",
                 "RATE": 180,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 919,
-                "ITEM NAME": "FOOT LIGHT' 3M STEP LIGHT",
+                "ITEM NAME": "3M STEP LIGHT",
                 "RATE": 190,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 920,
-                "ITEM NAME": "FOOT LIGHT '3M SOFT LIGHT",
+                "ITEM NAME": "3M SOFT LIGHT",
                 "RATE": 220,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 921,
-                "ITEM NAME": "FOOT LIGHT 4M SHUTTER",
+                "ITEM NAME": "4M SHUTTER",
                 "RATE": 200,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 924,
-                "ITEM NAME": "FOOT LIGHT 4M HAVELS",
+                "ITEM NAME": "4M HAVELS",
                 "RATE": 200,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 925,
-                "ITEM NAME": "FOOT LIGHT 4M STEPLIGHT",
+                "ITEM NAME": "4M STEPLIGHT",
                 "RATE": 240,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 927,
-                "ITEM NAME": "FOOT LIGHT 4 M SOFT LIGHT",
+                "ITEM NAME": "4 M SOFT LIGHT",
                 "RATE": 260,
                 "PKG": 5
             },
             {
                 "ITEM CODE": 931,
-                "ITEM NAME": "FOOT LIGHT OUT DOOR",
+                "ITEM NAME": "OUT DOOR",
                 "RATE": 405,
                 "PKG": 5
             }
