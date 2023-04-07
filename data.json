@@ -83,7 +83,7 @@
                         "ITEM CODE": 144,
                         "ITEM NAME": "2 pin Male Female",
                         "RATE": 42,
-                        "PKG": 20
+                        "PKG": 30
                     }
                 ]
             },
@@ -94,7 +94,7 @@
                     {
                         "ITEM CODE": 241,
                         "ITEM NAME": "1M SURFACE GANG BOX",
-                        "RATE": 48,
+                        "RATE": 45,
                         "PKG": 20
                     },
                     {
@@ -148,7 +148,7 @@
                     {
                         "ITEM CODE": 250,
                         "ITEM NAME": "18M SURFACE GANG BOX",
-                        "RATE": 220,
+                        "RATE": 216,
                         "PKG": 5
                     }
                 ]
@@ -160,49 +160,49 @@
                     {
                         "ITEM CODE": 253,
                         "ITEM NAME": "1/2M SURFACE OPEN BOX",
-                        "RATE": 62,
+                        "RATE": 64,
                         "PKG": 20
                     },
                     {
                         "ITEM CODE": 254,
                         "ITEM NAME": "3M SURFACE OPEN BOX",
-                        "RATE": 68,
+                        "RATE": 73,
                         "PKG": 10
                     },
                     {
                         "ITEM CODE": 255,
                         "ITEM NAME": "4M SURFACE OPEN BOX",
-                        "RATE": 78,
+                        "RATE": 83,
                         "PKG": 10
                     },
                     {
                         "ITEM CODE": 256,
                         "ITEM NAME": "6M SURFACE OPEN BOX",
-                        "RATE": 92,
+                        "RATE": 99,
                         "PKG": 10
                     },
                     {
                         "ITEM CODE": 257,
                         "ITEM NAME": "8M H SURFACE OPEN BOX",
-                        "RATE": 119,
+                        "RATE": 131,
                         "PKG": 10
                     },
                     {
                         "ITEM CODE": 258,
                         "ITEM NAME": "8MSQ SURFACE OPEN BOX",
-                        "RATE": 126,
+                        "RATE": 132,
                         "PKG": 5
                     },
                     {
                         "ITEM CODE": 259,
                         "ITEM NAME": "12M SURFACE OPEN BOX",
-                        "RATE": 150,
+                        "RATE": 160,
                         "PKG": 5
                     },
                     {
                         "ITEM CODE": 260,
                         "ITEM NAME": "18M SURFACE OPEN BOX",
-                        "RATE": 162,
+                        "RATE": 211,
                         "PKG": 5
                     }
                 ]
@@ -220,13 +220,13 @@
                     {
                         "ITEM CODE": 802,
                         "ITEM NAME": "ROUND PLATE 4",
-                        "RATE": 11,
+                        "RATE": 12,
                         "PKG": 50
                     },
                     {
                         "ITEM CODE": 803,
                         "ITEM NAME": "ROUND PLATE 5",
-                        "RATE": 20,
+                        "RATE": 22,
                         "PKG": 50
                     },
                     {
@@ -430,13 +430,13 @@
                     {
                         "ITEM CODE": 421,
                         "ITEM NAME": "DING DONG BELL PRIDE",
-                        "RATE": 200,
+                        "RATE": 211,
                         "PKG": 5
                     },
                     {
                         "ITEM CODE": 422,
                         "ITEM NAME": "DING DONG BELL VISTA",
-                        "RATE": 200,
+                        "RATE": 211,
                         "PKG": 5
                     },
                     {
@@ -808,7 +808,7 @@
             {
                 "ITEM CODE": 776,
                 "ITEM NAME": "1W SPOT LIGHT",
-                "RATE": 105,
+                "RATE": 88,
                 "PKG": 50
             },
             {
@@ -832,7 +832,7 @@
             {
                 "ITEM CODE": 788,
                 "ITEM NAME": "3 W SPOT STRIKER PLASTIC",
-                "RATE": 105,
+                "RATE": 88,
                 "PKG": 20
             }
         ]
