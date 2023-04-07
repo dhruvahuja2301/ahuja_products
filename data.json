@@ -604,6 +604,12 @@
         "1 IMAGE PER ITEM": true,
         "DESCRIPTION": "BEST QUALITY POWER STRIPS",
         "PRODUCTS": [
+             {
+                "ITEM CODE": 476,
+                "ITEM NAME": "POWER STRIP 1+4 2 Meter",
+                "RATE": 376,
+                "PKG": 5
+            },
             {
                 "ITEM CODE": 481,
                 "ITEM NAME": "POWER STRIP 4+4 2 Meter",
